@@ -48,14 +48,14 @@ Ce guide explique comment configurer et exécuter une application PHP localement
 
  # II - Execution de l'application Web STANIA
 
- <img width="350" height="300" src="captures/c1.png">
+ <img  src="captures/c1.PNG">
  <br>
-  <img width="350" height="300" src="captures/c2.png">
+  <img src="captures/c2.PNG">
  <br>
-  <img width="350" height="300" src="captures/c3.png">
+  <img  src="captures/c3.PNG">
  <br>
-  <img width="350" height="300" src="captures/c4.png">
+  <img  src="captures/c4.PNG">
  <br>
-  <img width="350" height="300" src="captures/c5.png">
+  <img  src="captures/c5.PNG">
  <br>
  
