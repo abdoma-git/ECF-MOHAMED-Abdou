@@ -46,6 +46,7 @@ Ce guide explique comment configurer et exécuter une application PHP localement
    $password = 'root'; // Ou vide selon la configuration par défaut de MAMP
    ?>
 
+# Base de donnees et Tables
    <img src="captures/c6.PNG">
    <br>
 
