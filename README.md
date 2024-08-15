@@ -46,16 +46,24 @@ Ce guide explique comment configurer et exécuter une application PHP localement
    $password = 'root'; // Ou vide selon la configuration par défaut de MAMP
    ?>
 
+   <img src="captures/c6.PNG">
+   <br>
+
  # II - Execution de l'application Web STANIA
 
+<h3> Page Index </h3>
  <img  src="captures/c1.PNG">
  <br>
   <img src="captures/c2.PNG">
  <br>
   <img  src="captures/c3.PNG">
  <br>
+
+ <h2> Liste des matchs, pour visualiser les matchs publies sur l'application, et la ou on peut voir les details de chque match</h2>
   <img  src="captures/c4.PNG">
  <br>
+
+ <h2> La page dashboard d'un untilisateur normal de l'application, ou il peut visualiser ses differents bets sur son espace personnel. </h2>
   <img  src="captures/c5.PNG">
  <br>
  
