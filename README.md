@@ -26,7 +26,7 @@ Ce guide explique comment configurer et exécuter une application PHP localement
    - Placez votre projet PHP dans le répertoire `htdocs` de MAMP. Par défaut, ce répertoire se trouve ici :
      - **macOS** : `/Applications/MAMP/htdocs/`
      - **Windows** : `C:\MAMP\htdocs\`
-   - Par exemple, si votre projet s'appelle `mon-projet`, placez-le dans le répertoire `htdocs` de manière à ce qu'il soit accessible via : `C:\MAMP\htdocs\mon-projet`.
+   - Par exemple, si votre projet s'appelle `bet-website`, placez-le dans le répertoire `htdocs` de manière à ce qu'il soit accessible via : `C:\MAMP\htdocs\bet-website`.
 
 2. **Configuration de la base de données avec PhpMyAdmin :**
    - Accédez à [http://localhost/phpmyadmin](http://localhost/phpmyadmin) dans votre navigateur pour ouvrir PhpMyAdmin.
